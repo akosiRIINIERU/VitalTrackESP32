@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../yawaw"
+		},
+		{
+			"name": "Sensor",
+			"path": "../Sensor"
+		},
+		{
+			"name": "Sensor2",
+			"path": "../Sensor2"
+		},
+		{
+			"name": "Sens",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
