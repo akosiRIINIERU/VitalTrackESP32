@@ -8,7 +8,7 @@
 /* ==============================
    SERVER CONFIG
    ============================== */
-#define SERVER_IP     "192.168.1.2" 
+#define SERVER_IP     "192.168.1.4" 
 #define SERVER_PORT   "3000"
 #define API_ENDPOINT  "/api/vitaltrack"
 
